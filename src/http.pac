@@ -1,4 +1,4 @@
-var nowall_proxy = "HTTP 127.0.0.1:8080;";
+var nowall_proxy = "PROXY 127.0.0.1:8080;";
 var wall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
